@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dragonball</string>
+    <string name="image">image</string>
+
+    <string name="title1">KAWASAKI NINJA Z400</string>
+    <string name="title2">SUZUKI GSXR-750</string>
+    <string name="title3">DUCATI COURSE</string>
+    <string name="title4">KAWASAKI H2R</string>
+    <string name="title6">KAWASAKI Z1000</string>
+    <string name="title7">YAMAHA R1</string>
+    <string name="title8">HAYABUSA</string>
+    <string name="title9">DUKE 390</string>
+    <string name="title10">YAMAHA MT09</string>
+    <string name="title11">DUCATI PANIGALE</string>
+    <string name="title12">SUPER DUKE R EVO</string>
+    <string name="title13">YAMAHA MT15</string>
+    <string name="title14">APRILIA RS 660</string>
+
+
+
+
+</resources>
